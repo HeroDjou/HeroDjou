@@ -1,4 +1,4 @@
-### Olá!👋
+### Olá, eu sou Claudio Fernandes!👋
 
 🔬 Acesse meu Currículo Lattes aqui: [https://lattes.cnpq.br/6238354612382171](https://lattes.cnpq.br/6238354612382171)
 
@@ -14,6 +14,9 @@ Além da minha dedicação à educação formal, sou entusiasta da criação de 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/HeroDjou)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/HeroDjou)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@HeroDjou)
+
+🌱 Atualmente estou trabalhando no projeto [HeroDeck](https://www.youtube.com/watch?v=Z_xIyCZwOh0), além de projetos comerciais contratados através da minha empresa.
+
 
 ## Dbits
 
