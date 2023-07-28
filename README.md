@@ -12,6 +12,7 @@ Além da minha dedicação à educação formal, sou entusiasta da criação de 
 [![Website](https://img.shields.io/badge/Website-herodjou.dev-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://herodjou.dev)
 [![Email](https://img.shields.io/badge/Email-claudio%40dbits.com.br-red?style=flat-square&logo=gmail&logoColor=white)](mailto:claudio@dbits.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiopfernandes/)
+[![Behance](https://img.shields.io/badge/Behance-0057FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/HeroDjou)
 [![Discord](https://img.shields.io/badge/Discord-Servidor-7289DA?style=flat-square&logo=discord&logoColor=white)](https://herodjou.dev/l/discord)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@HeroDjou)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/herodjou)
