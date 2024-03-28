@@ -5,7 +5,7 @@
 
 🔬 Acesse meu Currículo Lattes aqui: [https://lattes.cnpq.br/6238354612382171](https://lattes.cnpq.br/6238354612382171)
 
-Sou um profissional apaixonado por tecnologia e desenvolvimento de software, e além da minha graduação em Engenharia Mecatrônica na Faculdade de Informática e Administração Paulista (FIAP) e em Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL), também estou cursando um Mestrado Profissional em Ciências, Tecnologia e Gestão Aplicadas à Regeneração Tecidual (em andamento) na Universidade Federal de São Paulo (UNIFESP).
+Sou um profissional apaixonado por tecnologia e desenvolvimento de software, possuo graduação em Engenharia Mecatrônica pela Faculdade de Informática e Administração Paulista (FIAP) e em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul (UNICSUL), também estou cursando um Mestrado Profissional em Ciências, Tecnologia e Gestão Aplicadas à Regeneração Tecidual na Universidade Federal de São Paulo (UNIFESP).
 
 Além da minha dedicação à educação formal, sou entusiasta da criação de conteúdo e compartilho meu conhecimento por meio de um canal no YouTube e transmissões ao vivo na plataforma Twitch. Você pode conferir meu canal no YouTube [aqui](https://youtube.com/@HeroDjou) e acompanhar minhas lives na Twitch [aqui](https://twitch.tv/HeroDjou).
 
