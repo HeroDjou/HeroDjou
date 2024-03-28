@@ -35,7 +35,7 @@ Confira alguns dos meus projetos na minha empresa [DbitsBR](https://github.com/D
 2022 - Mestrado profissional em andamento em Ciências, Tecnologia e Gestão Aplicadas à Regeneração Tecidual.
 Universidade Federal de São Paulo, UNIFESP, Brasil.
 
-2019 - Graduação em andamento em Engenharia Mecatrônica.
+2019- 2023 Graduação em Engenharia Mecatrônica.
 Faculdade de Informática e Administração Paulista, FIAP, Brasil.
 
 2014 - 2016 - Graduação em Análise e Desenvolvimento de Sistemas.
